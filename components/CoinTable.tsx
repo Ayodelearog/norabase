@@ -37,7 +37,7 @@ export default function CoinTable() {
 
   return (
     <div className="bg-gray-100 rounded-lg shadow-lg w-fit h-fit ">
-      <h2 className="text-2xl font-bold mt-4 mb-4 mx-4">CoinLore API Table Sample</h2>
+      <h2 className="text-2xl font-bold mt-4 mb-4 mx-4">CoinLore API Table</h2>
       <div className="overflow-x-auto">
         <Table>
           <TableHeader>
